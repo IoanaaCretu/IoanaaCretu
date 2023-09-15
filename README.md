@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IoanaaCretu
 - 👀 I’m interested in traveling.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on fun beginner-friendly projects.
